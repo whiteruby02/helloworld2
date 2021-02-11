@@ -10,5 +10,6 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    printf("it's for first commit");
     return 0;
 }
